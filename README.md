@@ -13,7 +13,6 @@
 ### Requirements:
 
 <li>datetime</li>
-<li>os</li>
 <li> pyttsx3</li>
 <li> wikipedia</li>
 <li> speech_recognition </li>
