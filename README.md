@@ -14,6 +14,7 @@
 
 <li>datetime</li>
 <li> pyttsx3</li>
+<li>os</li>
 <li> wikipedia</li>
 <li> speech_recognition </li>
 <li> webbrowser</li>
@@ -87,6 +88,7 @@ sudo apt-get update && sudo apt-get install espeak
 ## Some Sneak peeks:
 
 <ul>
+  <li><h1> Has multiOS support </h2></li>
   <li><h2> Jarvis, Are you there?</h2></li>
   <li><h2> At your service, Sir</h2></li>
   
