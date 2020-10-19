@@ -8,12 +8,12 @@
 [![GitHub license](https://img.shields.io/github/license/GauravSingh9356/J.A.R.V.I.S)](https://github.com/GauravSingh9356/J.A.R.V.I.S/blob/master/LICENSE)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/noobDevelopers/J.A.R.V.I.S)
 
-<img src="jarvis1.jpg"/>
 
 ### Requirements:
 
 <li>datetime</li>
 <li> pyttsx3</li>
+<li>os</li>
 <li> wikipedia</li>
 <li> speech_recognition </li>
 <li> webbrowser</li>
@@ -87,6 +87,7 @@ sudo apt-get update && sudo apt-get install espeak
 ## Some Sneak peeks:
 
 <ul>
+  <li><h1> Has multiOS support </h2></li>
   <li><h2> Jarvis, Are you there?</h2></li>
   <li><h2> At your service, Sir</h2></li>
   
